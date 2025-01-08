@@ -7,7 +7,7 @@
 <h3>¡Desarrollador web <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">!</h3>
 
 <p align="center">
-<a href="#"><img src="[https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif](https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u)" alt="Coder GIF" width="500" height="400"></a>
+<a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"></a>
 </p>
 
 - 🌱 Actualmente estoy aprendiendo **Kotlin, HTML5, CSS3 **
