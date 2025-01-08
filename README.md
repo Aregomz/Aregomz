@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aregomz&label=Visitas+al+perfil&color=0e75b6&style=flat" alt="Aregomz" /> </p>
 
-<h3>¡Un apasionado desarrollador web <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">!</h3>
+<h3>¡Desarrollador web <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">!</h3>
 
 <p align="center">
 <a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"></a>
@@ -100,8 +100,3 @@
 </p>
 
 ---
-
-<h1 align="center">🐍 Mira cómo se come la serpiente mi gráfico de contribuciones</h1>
-<p align="center">
-  <img src="https://github.com/Aregomz/Aregomz/blob/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
