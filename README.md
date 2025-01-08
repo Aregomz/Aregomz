@@ -87,13 +87,15 @@
 
 ---
 
-<h3 align="center">😄 ¡Conecta conmigo!</h3>
+<div align="center">
+<h3><b>😄 Contacta conmigo</b></h3>
+</div>
 <p align="center">
-  <a href="https://twitter.com/TuTwitter" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/antonio-arellanes-gomez-19b8a5317" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Antonio Arellanes Gómez" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/TuLinkedIn" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://www.instagram.com/ft.arellanezz/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ft.arellanezz" height="30" width="40" />
   </a>
 </p>
 
