@@ -8,17 +8,15 @@
 <a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF de programador" width="500" height="400"></a>
 </p>
 
-- 🌱 Actualmente estoy aprendiendo **Django en Python**
+- 🌱 Actualmente estoy aprendiendo **Kotlin, HTML5, CSS3 **
 
-- 🔭 Estoy trabajando en mi **aplicación web de comercio electrónico**
+*/- 🔭 Estoy trabajando en mi **aplicación web de comercio electrónico** /*
 
-- 🌱 Actualmente estoy aprendiendo **Python, Django, HTML5, CSS3, SweetAlert, ChartJs y Firebase**
+- 👯 Estoy buscando colaborar en proyectos de **front-end, aplicaciones moviles**
 
-- 👯 Estoy buscando colaborar en proyectos de **front-end, back-end, Arduino e IoT**
+- 📫 Cómo contactarme: **arellanes.22@icloud.com**
 
-- 📫 Cómo contactarme: **avinashkumar2rock@gmail.com**
-
-- ⚡ Lo que me gusta hacer: **Me encanta explorar cosas nuevas, robótica IoT... y programar**
+- ⚡ Lo que me gusta hacer: **Me encanta explorar cosas nuevas...**
 
 - ⚡ Dato curioso: **Mi código me dice: No me toques, ¡de lo contrario tendrás muchísimos errores...** <img src="https://media.giphy.com/media/m6OomwWCojfS8/giphy.gif" width="34">
 
