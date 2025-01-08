@@ -10,8 +10,6 @@
 
 - 🌱 Actualmente estoy aprendiendo **Kotlin, HTML5, CSS3 **
 
-*/- 🔭 Estoy trabajando en mi **aplicación web de comercio electrónico** /*
-
 - 👯 Estoy buscando colaborar en proyectos de **front-end, aplicaciones moviles**
 
 - 📫 Cómo contactarme: **arellanes.22@icloud.com**
