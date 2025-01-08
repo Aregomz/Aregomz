@@ -7,8 +7,10 @@
 <h3>¡Desarrollador web <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">!</h3>
 
 <p align="center">
-<a href="#"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"></a>
+  <iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  <p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>
 </p>
+
 
 - 🌱 Actualmente estoy aprendiendo **Kotlin, HTML5, CSS3 **
 
