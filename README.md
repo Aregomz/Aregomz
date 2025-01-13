@@ -12,15 +12,9 @@
 
 
 
-- 🌱 Actualmente estoy aprendiendo **Kotlin, HTML5, CSS3 **
-
-- 👯 Estoy buscando colaborar en proyectos de **front-end, aplicaciones moviles**
-
 - 📫 Cómo contactarme: **arellanes.22@icloud.com**
 
-- ⚡ Lo que me gusta hacer: **Me encanta explorar cosas nuevas...**
 
-- ⚡ Dato curioso: **Mi código me dice: No me toques, ¡de lo contrario tendrás muchísimos errores...** <img src="https://media.giphy.com/media/m6OomwWCojfS8/giphy.gif" width="34">
 
 ---
 
